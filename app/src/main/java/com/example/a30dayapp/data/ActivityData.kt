@@ -6,151 +6,181 @@ import com.example.a30dayapp.model.ProgrammingActivity
 object ActivityData {
     var programmingActivities = listOf(
         ProgrammingActivity(
+            "1",
             R.string.activity_title_1,
             R.string.activity_description_1,
             R.drawable.activity_1
         ),
         ProgrammingActivity(
+            "2",
             R.string.activity_title_2,
             R.string.activity_description_2,
             R.drawable.activity_2
         ),
         ProgrammingActivity(
+            "3",
             R.string.activity_title_3,
             R.string.activity_description_3,
             R.drawable.activity_3
         ),
         ProgrammingActivity(
+            "4",
             R.string.activity_title_4,
             R.string.activity_description_4,
             R.drawable.activity_4
         ),
         ProgrammingActivity(
+            "5",
             R.string.activity_title_5,
             R.string.activity_description_5,
             R.drawable.activity_5
         ),
         ProgrammingActivity(
+            "6",
             R.string.activity_title_6,
             R.string.activity_description_6,
             R.drawable.activity_6
         ),
         ProgrammingActivity(
+            "7",
             R.string.activity_title_7,
             R.string.activity_description_7,
             R.drawable.activity_7
         ),
         ProgrammingActivity(
+            "8",
             R.string.activity_title_8,
             R.string.activity_description_8,
             R.drawable.activity_8
         ),
         ProgrammingActivity(
+            "9",
             R.string.activity_title_9,
             R.string.activity_description_9,
             R.drawable.activity_9
         ),
         ProgrammingActivity(
+            "10",
             R.string.activity_title_10,
             R.string.activity_description_10,
             R.drawable.activity_10
         ),
         ProgrammingActivity(
+            "11",
             R.string.activity_title_11,
             R.string.activity_description_11,
             R.drawable.activity_11
         ),
         ProgrammingActivity(
+            "12",
             R.string.activity_title_12,
             R.string.activity_description_12,
             R.drawable.activity_12
         ),
         ProgrammingActivity(
+            "13",
             R.string.activity_title_13,
             R.string.activity_description_13,
             R.drawable.activity_13
         ),
         ProgrammingActivity(
+            "14",
             R.string.activity_title_14,
             R.string.activity_description_14,
             R.drawable.activity_14
         ),
         ProgrammingActivity(
+            "15",
             R.string.activity_title_15,
             R.string.activity_description_15,
             R.drawable.activity_15
         ),
         ProgrammingActivity(
+            "16",
             R.string.activity_title_16,
             R.string.activity_description_16,
             R.drawable.activity_16
         ),
         ProgrammingActivity(
+            "17",
             R.string.activity_title_17,
             R.string.activity_description_17,
             R.drawable.activity_17
         ),
         ProgrammingActivity(
+            "18",
             R.string.activity_title_18,
             R.string.activity_description_18,
             R.drawable.activity_18
         ),
         ProgrammingActivity(
+            "19",
             R.string.activity_title_19,
             R.string.activity_description_19,
             R.drawable.activity_19
         ),
         ProgrammingActivity(
+            "20",
             R.string.activity_title_20,
             R.string.activity_description_20,
             R.drawable.activity_20
         ),
         ProgrammingActivity(
+            "21",
             R.string.activity_title_21,
             R.string.activity_description_21,
             R.drawable.activity_21
         ),
         ProgrammingActivity(
+            "22",
             R.string.activity_title_22,
             R.string.activity_description_22,
             R.drawable.activity_22
         ),
         ProgrammingActivity(
+            "23",
             R.string.activity_title_23,
             R.string.activity_description_23,
             R.drawable.activity_23
         ),
         ProgrammingActivity(
+            "24",
             R.string.activity_title_24,
             R.string.activity_description_24,
             R.drawable.activity_24
         ),
         ProgrammingActivity(
+            "25",
             R.string.activity_title_25,
             R.string.activity_description_25,
             R.drawable.activity_25
         ),
         ProgrammingActivity(
+            "26",
             R.string.activity_title_26,
             R.string.activity_description_26,
             R.drawable.activity_26
         ),
         ProgrammingActivity(
+            "27",
             R.string.activity_title_27,
             R.string.activity_description_27,
             R.drawable.activity_27
         ),
         ProgrammingActivity(
+            "28",
             R.string.activity_title_28,
             R.string.activity_description_28,
             R.drawable.activity_28
         ),
         ProgrammingActivity(
+            "29",
             R.string.activity_title_29,
             R.string.activity_description_29,
             R.drawable.activity_29
         ),
         ProgrammingActivity(
+            "30",
             R.string.activity_title_30,
             R.string.activity_description_30,
             R.drawable.activity_30

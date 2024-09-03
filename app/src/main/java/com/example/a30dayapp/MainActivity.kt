@@ -11,25 +11,29 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.a30dayapp.ui.theme._30DayAppTheme
+import com.example.a30dayapp.ui.theme.ProgrammingDaysAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            _30DayAppTheme {
+            ProgrammingDaysAppTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+                    ProgrammingDaysApp(
+                        modifier = Modifier
+                            .padding(innerPadding)
+                    )
                 }
             }
         }
     }
 }
 
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    _30DayAppTheme {
-
-    }
-}
+//@Preview(showBackground = true)
+//@Composable
+//fun GreetingPreview() {
+//    _30DayAppTheme {
+//
+//    }
+//}

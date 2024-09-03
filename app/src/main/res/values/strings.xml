@@ -1,11 +1,12 @@
 <resources>
     <string name="app_name">30DayApp</string>
+    <string name="day">Day %s</string>
     <string name="activity_title_1">Set Up Your Development Environment</string>
     <string name="activity_description_1">Install a code editor like VS Code or Sublime Text, set up a version control system like Git, and ensure you have a terminal/command prompt configured for your operating system.</string>
     <string name="activity_title_2">Learn Basic Command Line Operations</string>
     <string name="activity_description_2">Spend time learning how to navigate directories, create and delete files, and perform basic operations using the terminal or command prompt.</string>
-    <string name="activity_title_3">Complete a &quot;Hello World&quot; Program</string>
-    <string name="activity_description_3">Write and run a simple &quot;Hello World&quot; program in a programming language of your choice. Understand how to compile or interpret your code if necessary.</string>
+    <string name="activity_title_3">Complete a Hello World Program</string>
+    <string name="activity_description_3">Write and run a simple Hello World program in a programming language of your choice. Understand how to compile or interpret your code if necessary.</string>
     <string name="activity_title_4">Understand Basic Data Types</string>
     <string name="activity_description_4">Study basic data types like integers, floats, strings, and booleans. Write simple programs that use these data types.</string>
     <string name="activity_title_5">Practice Variables and Assignment</string>
@@ -37,7 +38,7 @@
     <string name="activity_title_18">Understand Exception Handling</string>
     <string name="activity_description_18">Learn how to handle errors and exceptions in your code. Practice writing programs that gracefully handle different types of runtime errors.</string>
     <string name="activity_title_19">Work on a Small Project</string>
-    <string name="activity_description_19">Choose a simple project, like a to-do list or a personal diary app, and build it from scratch. Apply the concepts you&#39;ve learned so far.</string>
+    <string name="activity_description_19">Choose a simple project, like a to-do list or a personal diary app, and build it from scratch. Apply the concepts you have learned so far.</string>
     <string name="activity_title_20">Version Control with Git</string>
     <string name="activity_description_20">Learn how to use Git for version control. Practice creating repositories, committing changes, branching, and merging code.</string>
     <string name="activity_title_21">Understand Algorithm Complexity</string>
@@ -59,5 +60,5 @@
     <string name="activity_title_29">Participate in Coding Challenges</string>
     <string name="activity_description_29">Join coding challenge platforms like LeetCode, HackerRank, or Codewars. Regularly solve problems to improve your algorithmic thinking and coding skills.</string>
     <string name="activity_title_30">Build a Comprehensive Project</string>
-    <string name="activity_description_30">Plan and develop a larger, more complex project that incorporates multiple skills you&#39;ve learned. Focus on code organization, performance, and scalability.</string>
+    <string name="activity_description_30">Plan and develop a larger, more complex project that incorporates multiple skills you have learned. Focus on code organization, performance, and scalability.</string>
 </resources>
